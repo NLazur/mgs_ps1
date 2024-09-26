@@ -39,3 +39,4 @@ src/.vscode/settings.json
 *.swo
 research/
 .cache/
+.DS_Store
